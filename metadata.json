@@ -1,0 +1,8 @@
+{
+  "name": "KaliEthical - AI Security Assistant",
+  "description": "An advanced ethical hacking assistant for Kali Linux users, featuring CLI command generation, script auditing, and real-time security guidance powered by Gemini.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}

@@ -1,0 +1,7 @@
+
+{
+  "appId": "io.kaliethical.assistant",
+  "appName": "KaliEthical",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
